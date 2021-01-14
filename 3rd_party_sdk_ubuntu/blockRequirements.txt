@@ -1,0 +1,5 @@
+Adafruit-DHT==1.4.0
+RPi.GPIO==0.6.3
+requests==2.12.4
+requests-oauthlib==0.7.0
+urllib3==1.25.5
