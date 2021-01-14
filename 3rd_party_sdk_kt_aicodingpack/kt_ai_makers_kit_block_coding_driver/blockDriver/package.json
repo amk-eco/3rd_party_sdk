@@ -1,0 +1,24 @@
+{
+  "name": "aimakerskit-examples",
+  "version": "1.0.0",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "cors": "^2.8.5",
+    "dateformat": "3.0.3",
+    "express": "^4.16.4",
+    "find-process": "^1.4.1",
+    "grpc": "1.16.1",
+    "has-binary2": "^1.0.3",
+    "multer": "^1.4.1",
+    "node-dht-sensor": "^0.3.0",
+    "node-record-lpcm16": "0.3.0",
+    "pi-servo": "^1.0.2",
+    "rpi-gpio": "1.0.0",
+    "rpio": "0.9.21",
+    "socket.io": "^2.1.1",
+    "speaker": "0.4.1",
+    "wav": "^1.0.2",
+    "youtube-dl": "1.12.2",
+    "puppeteer-core": "1.11.0"
+  }
+}
