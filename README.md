@@ -7,7 +7,7 @@
 #####  &nbsp;&nbsp; bluez 5.54, bluepy 1.3.0
 
 #### o NodeJS v10 
-    <설치가 필요한 Package>
+    *설치가 필요한 Package
     "async": "^3.2.0",
     "async-retry": "^1.3.1",
     "aysnc": "^0.0.1-security",
