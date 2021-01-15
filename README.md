@@ -13,6 +13,6 @@
 - AMK 공식 OS 및 업데이트에 반영하여 배포 
 
 ## 4.관련 사이트
- - [AI코딩블록 사이트](https://aicodingblock.kt.co.kr/){: target="_blank"}
+ - [AI코딩블록 사이트](https://aicodingblock.kt.co.kr/)
 ## 기타 문의 및 요청
 - amkeco7@gmail.com 메일로 송신 바람
